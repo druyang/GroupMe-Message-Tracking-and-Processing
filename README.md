@@ -1,14 +1,12 @@
-Download GroupMe Messages
-=============
+Originally created to track the number of trivia points given by one user to another user. 
 
-This is a tool to download GroupMe messages to a CSV file and display simple stats about those messages.
+This is a tool to download GroupMe messages from a groupchat to a CSV file and processes the messages. 
+This includes tracking the number of times certain phrases are mentioned.  
 
-Example usage:
-- Number of messages by each user
-- Number of favorited messages
-- Number of times a user spews profanity
-- Average length of a user's message
-- Number of times a user says "lol"
+
+Fork of / Based off of: 
+youyanggu/groupme_stats
+
 
 Getting Access Token
 --------------
